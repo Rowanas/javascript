@@ -55,6 +55,7 @@ myArray.push("I", "am", "Rowan");
 console.log(myArray.length);
 myArray.shift();
 console.log(myArray.length);
+
 //splice sets at which index removal begins and how many subsequent indices it covers.
 myArray.splice(2,1);
 for (let value of myArray)   {

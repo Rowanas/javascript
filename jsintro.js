@@ -46,5 +46,3 @@ console.log(starSign)
 console.log(`My car is a ${currentCar} and my boot is ${currentBoot}`)
 console.log("My car is %c a "+currentCar,"color: yellow")
 console.log(`%c My car is a ${currentCar} and my boot is ${currentBoot}`,`color:green`)
-
-// Strict Mode
